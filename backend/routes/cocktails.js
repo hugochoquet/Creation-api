@@ -1,7 +1,7 @@
 /***********************************/
 /*** Import des module nécessaires */
 const express = require('express')
-const checkTokenMiddleware = require('../jsonwebtoken/check')
+const checkTokenMiddleware = require('../middlewares/check')
 const cocktailCtrl = require('../controllers/cocktail')
 
 /***************************************/
