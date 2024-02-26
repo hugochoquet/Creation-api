@@ -1,0 +1,4 @@
+1-creation des pages
+npm i @craco/craco
+npm i @craco/craco@alpha
+npm i react-router-dom
